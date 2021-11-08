@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Ödev4\Ödev4\bin\Debug\Ödev4.exe.config
+C:\Users\ASUS\Desktop\Ödev4\Ödev4\bin\Debug\Ödev4.exe
+C:\Users\ASUS\Desktop\Ödev4\Ödev4\bin\Debug\Ödev4.pdb
+C:\Users\ASUS\Desktop\Ödev4\Ödev4\obj\Debug\Ödev4.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Ödev4\Ödev4\obj\Debug\Ödev4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ödev4\Ödev4\obj\Debug\Ödev4.exe
+C:\Users\ASUS\Desktop\Ödev4\Ödev4\obj\Debug\Ödev4.pdb
+C:\Users\ASUS\Desktop\MeyveSebze\Ödev4\bin\Debug\Ödev4.exe.config
+C:\Users\ASUS\Desktop\MeyveSebze\Ödev4\bin\Debug\Ödev4.exe
+C:\Users\ASUS\Desktop\MeyveSebze\Ödev4\bin\Debug\Ödev4.pdb
+C:\Users\ASUS\Desktop\MeyveSebze\Ödev4\obj\Debug\Ödev4.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\MeyveSebze\Ödev4\obj\Debug\Ödev4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MeyveSebze\Ödev4\obj\Debug\Ödev4.exe
+C:\Users\ASUS\Desktop\MeyveSebze\Ödev4\obj\Debug\Ödev4.pdb
