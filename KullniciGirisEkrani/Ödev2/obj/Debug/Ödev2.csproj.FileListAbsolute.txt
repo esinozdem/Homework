@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Ödev2\Ödev2\bin\Debug\Ödev2.exe.config
+C:\Users\ASUS\Desktop\Ödev2\Ödev2\bin\Debug\Ödev2.exe
+C:\Users\ASUS\Desktop\Ödev2\Ödev2\bin\Debug\Ödev2.pdb
+C:\Users\ASUS\Desktop\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Ödev2\Ödev2\obj\Debug\Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ödev2\Ödev2\obj\Debug\Ödev2.exe
+C:\Users\ASUS\Desktop\Ödev2\Ödev2\obj\Debug\Ödev2.pdb
+C:\Myworkspace\GithupWorkSpaces\KullniciGirisEkrani\Ödev2\bin\Debug\Ödev2.exe.config
+C:\Myworkspace\GithupWorkSpaces\KullniciGirisEkrani\Ödev2\bin\Debug\Ödev2.exe
+C:\Myworkspace\GithupWorkSpaces\KullniciGirisEkrani\Ödev2\bin\Debug\Ödev2.pdb
+C:\Myworkspace\GithupWorkSpaces\KullniciGirisEkrani\Ödev2\obj\Debug\Ödev2.csproj.AssemblyReference.cache
+C:\Myworkspace\GithupWorkSpaces\KullniciGirisEkrani\Ödev2\obj\Debug\Ödev2.csproj.CoreCompileInputs.cache
+C:\Myworkspace\GithupWorkSpaces\KullniciGirisEkrani\Ödev2\obj\Debug\Ödev2.exe
+C:\Myworkspace\GithupWorkSpaces\KullniciGirisEkrani\Ödev2\obj\Debug\Ödev2.pdb
