@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\bin\Debug\SuFaturasi.exe.config
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\bin\Debug\SuFaturasi.exe
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\bin\Debug\SuFaturasi.pdb
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\obj\Debug\SuFaturasi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\obj\Debug\SuFaturasi.Form1.resources
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\obj\Debug\SuFaturasi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\obj\Debug\SuFaturasi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\obj\Debug\SuFaturasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\obj\Debug\SuFaturasi.exe
+C:\Users\ASUS\Desktop\SuFaturasi\SuFaturasi\obj\Debug\SuFaturasi.pdb
