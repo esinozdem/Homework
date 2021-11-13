@@ -1,0 +1,11 @@
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\bin\Debug\PansiyonOtomasyon.exe.config
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\bin\Debug\PansiyonOtomasyon.exe
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\bin\Debug\PansiyonOtomasyon.pdb
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.csproj.AssemblyReference.cache
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.Form1.resources
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.Properties.Resources.resources
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.csproj.GenerateResource.cache
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.csproj.CoreCompileInputs.cache
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.exe
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.pdb
+C:\Myworkspace\GithupWorkSpaces\PansiyonOtomasyon\PansiyonOtomasyon\obj\Debug\PansiyonOtomasyon.FrmYeniMusteri.resources
