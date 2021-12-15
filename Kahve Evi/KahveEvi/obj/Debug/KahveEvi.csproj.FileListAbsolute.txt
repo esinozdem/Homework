@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\obj\Debug\KahveEvi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\obj\Debug\KahveEvi.Form1.resources
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\obj\Debug\KahveEvi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\obj\Debug\KahveEvi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\obj\Debug\KahveEvi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\bin\Debug\KahveEvi.exe.config
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\bin\Debug\KahveEvi.exe
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\bin\Debug\KahveEvi.pdb
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\obj\Debug\KahveEvi.exe
+C:\Users\ASUS\Desktop\KahveEvi\KahveEvi\obj\Debug\KahveEvi.pdb
+C:\Myworkspace\GithupWorkSpaces\Kahve Evi\KahveEvi\obj\Debug\KahveEvi.csproj.AssemblyReference.cache
+C:\Myworkspace\GithupWorkSpaces\Kahve Evi\KahveEvi\obj\Debug\KahveEvi.Form1.resources
+C:\Myworkspace\GithupWorkSpaces\Kahve Evi\KahveEvi\obj\Debug\KahveEvi.Properties.Resources.resources
+C:\Myworkspace\GithupWorkSpaces\Kahve Evi\KahveEvi\obj\Debug\KahveEvi.csproj.GenerateResource.cache
+C:\Myworkspace\GithupWorkSpaces\Kahve Evi\KahveEvi\obj\Debug\KahveEvi.csproj.CoreCompileInputs.cache
+C:\Myworkspace\GithupWorkSpaces\Kahve Evi\KahveEvi\obj\Debug\KahveEvi.exe
+C:\Myworkspace\GithupWorkSpaces\Kahve Evi\KahveEvi\obj\Debug\KahveEvi.pdb

@@ -1,0 +1,10 @@
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\bin\Debug\Benzin_Otomasyonu.exe.config
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\bin\Debug\Benzin_Otomasyonu.exe
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\bin\Debug\Benzin_Otomasyonu.pdb
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\obj\Debug\Benzin_Otomasyonu.csproj.AssemblyReference.cache
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\obj\Debug\Benzin_Otomasyonu.Form1.resources
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\obj\Debug\Benzin_Otomasyonu.Properties.Resources.resources
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\obj\Debug\Benzin_Otomasyonu.csproj.GenerateResource.cache
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\obj\Debug\Benzin_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\obj\Debug\Benzin_Otomasyonu.exe
+C:\Myworkspace\GithupWorkSpaces\Benzin_Otomasyonu\Benzin_Otomasyonu\obj\Debug\Benzin_Otomasyonu.pdb
