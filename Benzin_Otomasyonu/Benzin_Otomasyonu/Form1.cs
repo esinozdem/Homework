@@ -51,7 +51,7 @@ namespace Benzin_Otomasyonu
             //    yazi = sw.ReadLine();
             //}
 
-            FileStream fs = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Read, FileShare.ReadWrite);
+            FileStream fs = new FileStream(path, FileMode.OpenOrCreate,FileAccess.ReadWrite);
 
             StreamReader sr = new StreamReader(fs);
 
@@ -67,7 +67,7 @@ namespace Benzin_Otomasyonu
 
             }
             sr.Close();
-            fs.Close();
+            //fs.Close();
 
         }
 
